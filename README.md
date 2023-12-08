@@ -6,6 +6,3 @@
 - [Markdown](markdownguide.offshoot.io/basic-syntax)
 - [Git](git-scm.com/doc)
 - [GitHub](docs.gitgub.com)
-
-### Aula 01
-(Mercado e Carreira de Jogos)
