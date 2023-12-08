@@ -4,5 +4,5 @@
 ## Links Úteis
 - [Readme](https://readme.so/pt/editor)
 - [Markdown](https://markdownguide.offshoot.io/basic-syntax/)
-- [Git](git-scm.com/doc)
-- [GitHub](docs.gitgub.com)
+- [Git](https://git-scm.com/doc)
+- [GitHub](https://docs.github.com/pt/get-started/quickstart)
