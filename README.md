@@ -8,4 +8,4 @@
 - [GitHub](docs.gitgub.com)
 
 ### Aula 01
-[Mercado e Carreira de Jogos]()
+(Mercado e Carreira de Jogos)
