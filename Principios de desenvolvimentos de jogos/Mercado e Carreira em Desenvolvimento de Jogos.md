@@ -10,3 +10,10 @@ Arte conceitual, 2D, 3D, Animação, Tech art, UI/UX.
 Efeitos sonoros, Trilhas Sonoras, Progamação de Áudio.
 - Game Design:
 Prototipagem, Arquitetura do sistemas, Idealização do jogo, Balanceamento, UX, Level desing.
+
+## Portifólio
+1. **_GitHub_** para progamadores.
+1. **_ArtStation_** para artistas.
+1. **_Itch.io_** para jogos finalizados.
+1. **_Sites Próprios_** para portifólios profissionais.
+1. **_Notion_** para portifólios flexíveis.
